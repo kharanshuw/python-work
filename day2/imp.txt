@@ -1,0 +1,56 @@
+
+---to create python virtual environment
+ python -m venv myproject
+
+
+run below script in powershell 
+.\Scripts\activate
+
+
+pip install Flask
+
+
+Copy code block for app.py file
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def hello():
+  return "Hello World!"
+
+if __name__ == "__main__":
+  app.run()
+
+
+
+
+
+setup tailwind css in python flask
+
+
+
+step 1 :
+
+npm install -D tailwindcss@latest @tailwindcss/cli
+
+
+step 2:
+
+@import "tailwindcss";
+
+inside static/stc/input.css
+
+
+step 3:
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+add above line in base.html
+
+step 4:
+"scripts": {
+    "dev": "tailwindcss -i ./static/src/input.css -o ./static/css/style.css --watch",
+     "build": "tailwindcss -i ./static/src/input.css -o ./static/css/style.css --minify"
+  }
+  
+  add this in package.json file
