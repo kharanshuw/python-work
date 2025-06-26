@@ -1,0 +1,4 @@
+
+
+---------------------------command to install mysql ------------------------------------
+pip install mysql-connector-python 
