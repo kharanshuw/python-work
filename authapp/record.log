@@ -1,0 +1,649 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:01:52] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:01:52] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:01:52] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:01:52] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=e0JAxTUbOmiGcxEtF8z3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:01:52] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:02:19] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:02:19] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:02:19] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:02:19] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=DflG2RYFiqoleJiMtyGx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:02:19] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:02:43] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:02:50] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:03:13] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:03:18] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:03:19] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:03:19] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:03:19] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=lM27SUeIPvM9h4UP0n1A HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:03:19] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:03:40] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:03:57] "POST /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:04:29] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:04:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:05:13] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:25:19] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:25:24] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:25:28] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:25:28] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:25:28] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:25:29] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=z04oShklZRTxa5AtoNFq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:25:29] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:27:38] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:38:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:38:33] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:38:37] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:38:41] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:38:42] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:38:42] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:38:42] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=zJUyVyhhY1tRyc8VTlLw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:38:42] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:18] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:18] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:18] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:18] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=A7Y0AUHJiVWdGcKz6DiX HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:19] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:33] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:33] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:34] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:34] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=usxspsbZ7H5EZVWqYxwx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:39:34] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:20] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:26] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:30] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:31] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:31] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:31] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=uY2lfEHUQrEA3g2aAD4Y HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:31] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:55] "GET / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:42:59] "POST / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:43:28] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:userpassword 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:43:32] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:43:33] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:43:33] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:43:33] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=g0yvXaE87qLKgaexOoPg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:43:33] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:userpassword 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:44:12] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:44:12] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:44:12] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:44:12] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=wc8BmnhOZ9o4XJ7tKaxB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:44:13] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:userpassword 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:44:50] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:userpassword 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:46:15] "POST /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:userpassword 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:46:19] "POST /login HTTP/1.1" 200 -
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:46:43] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:46:52] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:userpassword 1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:46:56] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:50:27] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:50:30] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:1234
+INFO:app:1234
+INFO:app:db password and userpassword is correct
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:50:36] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:54:22] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:54:27] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:1234
+INFO:app:1234
+INFO:app:same password
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 12:54:30] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 14:24:51] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 14:24:56] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:1234
+INFO:app:1234
+INFO:app:same password and username
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 14:25:00] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:21:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:21:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:22:07] "GET / HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:22:12] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:1234
+INFO:app:1234
+INFO:app:same password and username
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:22:51] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:23:18] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:23:19] "GET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:23:19] "GET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:23:19] "GET /test?__debugger__=yes&cmd=resource&f=console.png&s=fjQThrgnSXUTwcNdLwfz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:23:19] "GET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:37:11] "GET / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:37:15] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running post request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:37:46] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:37:46] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:37:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:37:47] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=RunDtpuXGUDYiNPPj4w9 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:37:47] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:42:01] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:42:04] "GET / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:42:11] "POST / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:46:07] "POST / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:46:12] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:51:26] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:51:28] "GET / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:51:34] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:51:34] "GET /register-success HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:51:37] "GET /register-success HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:51:38] "GET /register-success HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:51:38] "GET /register-success HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:51:39] "GET /register-success HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:57:36] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:1234
+INFO:app:1234
+INFO:app:same password and username
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:57:42] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 15:57:42] "GET /login_successfully HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:38:24] "GET / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:38:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:38:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:38:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:38:28] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=tlM3l3KVE8WHFK3ltz1s HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:38:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:39:16] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:39:16] "GET /register-success HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:49:28] "GET / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:49:32] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:49:32] "GET /register-success HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:13] "GET / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:17] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:18] "GET /register-success HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:34] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:1234
+INFO:app:1234
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:39] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:39] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:39] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:39] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=FkaLSjuTpDunakRRQtOg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:53:40] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:app:running get request of register
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:56:07] "GET / HTTP/1.1" 200 -
+INFO:app:running post request of register
+INFO:app:executing insert query
+INFO:app:executing successfull of data insertion
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:56:11] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:56:11] "GET /register-success HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:56:17] "GET /login HTTP/1.1" 200 -
+INFO:app:running get request of login 
+INFO:app:username and password are kharanshu@eqube.co.in : 1234
+INFO:app:Executing the fetch query in DB...
+INFO:app:Fetched user details:
+INFO:app:user email kharanshu@eqube.co.in
+INFO:app:$2b$12$oeZ/tmlGu24C4kRvWOaXWucgAObr5DtRLUjwdYPyosEAtpYnArXeS
+INFO:app:1234
+INFO:app:same password and username
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:56:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2025 16:56:22] "GET /login_successfully HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 220-555-270
+INFO:werkzeug: * Detected change in 'D:\\kharanshu\\flask-work\\authentication\\authapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
