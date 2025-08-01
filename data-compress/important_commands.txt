@@ -1,0 +1,48 @@
+To format a single file:
+Insert in terminal
+black D:\kharanshu\flask-work\compress_table_task\test\routes.py
+
+
+To format all Python files in your project:
+black D:\kharanshu\flask-work\compress_table_task\test\
+
+To check formatting without making changes (dry run):
+black --check D:\kharanshu\flask-work\compress_table_task\test\routes.py
+
+To format all Python files in your project without making changes (dry run):
+black --check D:\kharanshu\flask-work\compress_table_task\test
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+after compression: Total rows: 8,87,807
+before compression: round 1.58 crore rows
+
+fifty thousand rows
+after compression: 3247
+
+
+No of lines before compression : 4,83,83,237
+
+No of lines after compression : 64,71,579
+
+
+
+5 minutes = 5 × 60 × 1000 = 300000 milliseconds
+
+
+1690848300000
+
+1693195800000
+
+1693196100000
+
+
+
+a =  (1693195893413 //  5 * 60 * 1000)
+print(a)
+b = a * (5 * 60 * 1000)
+print(b)
